@@ -3,6 +3,7 @@ using System.Text.RegularExpressions;
 
 Console.WriteLine("Hello, World!");
 // zle
+// dodac throw
 try {
     var url = args[0];
 }
